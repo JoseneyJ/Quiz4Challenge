@@ -32,3 +32,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+
+# Screenshot 
+<img width="1440" alt="Screenshot 2023-05-13 at 9 27 01 PM" src="https://github.com/JoseneyJ/Quiz4Challenge/assets/119374215/a57f5064-d4b6-4fc4-8651-e9154fc65f34">
